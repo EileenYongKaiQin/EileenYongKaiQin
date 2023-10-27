@@ -4,6 +4,8 @@
 
 - 🌱 I’m currently learning **Software Engineering**
 
+- 👨‍💻 All of my projects are available at [https://github.com/EileenYongKaiQin/EileenYongKaiQin](https://github.com/EileenYongKaiQin/EileenYongKaiQin)
+
 - 📫 How to reach me **kaiqin0206@gmail.com**
 
 <h3 align="left">Connect with me:</h3>

@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi Everyone 👋
 <h1 align="center">Hi 👋, I'm Eileen Yong Kai Qin</h1>
 <h3 align="center">A Software Engineering Student from Malaysia</h3>
 
